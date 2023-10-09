@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\if-ornekler3\if-ornekler3\obj\Debug\if-ornekler3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\if-ornekler3\if-ornekler3\obj\Debug\if-ornekler3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\if-ornekler3\if-ornekler3\obj\Debug\if_ornekler3.Form1.resources
+C:\Users\User\source\repos\if-ornekler3\if-ornekler3\obj\Debug\if_ornekler3.Properties.Resources.resources
+C:\Users\User\source\repos\if-ornekler3\if-ornekler3\obj\Debug\if-ornekler3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\if-ornekler3\if-ornekler3\obj\Debug\if-ornekler3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\if-ornekler3\if-ornekler3\bin\Debug\if-ornekler3.exe.config
+C:\Users\User\source\repos\if-ornekler3\if-ornekler3\bin\Debug\if-ornekler3.exe
+C:\Users\User\source\repos\if-ornekler3\if-ornekler3\bin\Debug\if-ornekler3.pdb
+C:\Users\User\source\repos\if-ornekler3\if-ornekler3\obj\Debug\if-ornekler3.exe
+C:\Users\User\source\repos\if-ornekler3\if-ornekler3\obj\Debug\if-ornekler3.pdb
